@@ -1,2 +1,2 @@
 # prueba
-Ejercicios de pruebas
+Ejercicios de pruebas para conocer sobre github
